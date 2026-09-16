@@ -44,7 +44,7 @@ Led end-to-end product and systems development for a travel technology company �
 Joined a high-growth London fintech building identity verification and fraud prevention technology. Supported engineering and product alignment in a fast-paced, regulated environment. Contributed to QA and test-driven development practices and organisation-wide ways of working improvements.
 
 2022 — Present · Senior Scrum Master & Platform Delivery Leader, A.P. Moller — Maersk · London
-Founding leadership team member for the Source to Pay engineering platform. Scaled from 8 to 85+ engineers. Operated extensively in the product management space — owning backlog strategy, defining OKRs, coaching Product Owners, and influencing senior stakeholders across Product, Engineering, and Platform leadership. Currently leading the design of a platform-wide AI-augmented delivery intelligence framework.
+Founding leadership team member for the Source to Pay engineering platform. Scaled from 8 to 85+ engineers. Operated extensively in the product management space — owning backlog strategy, defining OKRs, coaching Product Owners, and influencing senior stakeholders across Product, Engineering, and Platform leadership. 
 
 
 Skills & Capabilities
