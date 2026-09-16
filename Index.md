@@ -7,9 +7,9 @@ I'm a technical product Delivery leader with 20+ years of experience based in Un
 
 My career began as a Software Engineer in India, writing code, learning systems, and developing a deep instinct for how software actually works — not in theory, but in production, under pressure, with real users depending on it. Over the next 14 years I worked across industries and continents — India, Europe, the Americas — taking on increasingly complex technical challenges and building a foundation that most product managers simply do not have.
 
-In the meantime I had progressed from programmer to Systems Analyst to Solution Architect — a role in which I led the end-to-end development of products across finance and retail, working across multiple ERP ecosystems. At Miki Travels in London, I designed and delivered multiple integrations to Booking system including a full Microsoft Dynamics 365 implementation delivered on time and on budget. I was not advising on products. I was building them — from requirements through architecture through go-live.
+In the meantime I had progressed from programmer to Systems Analyst to Solution Architect — a role in which I led the end-to-end development of products across finance and retail, working across multiple ERP ecosystems. At Miki Travels in London, I played a key role as solution architect, and designed and delivered multiple integrations that sat in the middle Booking system and Financial system including a full Microsoft Dynamics 365 implementation delivered on time and on budget. I was not advising on products. I was building them — from requirements through architecture through UAT and go-live.I also managed remote teams and supplier relationships. 
 
-In 2016, something shifted. I had spent years being the person who understood what needed to be built. I wanted to be the person who decided why. I transitioned into Scrum Master practice — deliberately — because I wanted to understand how great teams make decisions, how delivery and product strategy connect, and how to lead without the authority of a technical title. What followed was six years of learning the discipline of agile delivery from the inside: first at Miki Travels, establishing Scrum from scratch across London and offshore teams, then at Callsign — a high-growth London fintech building identity verification technology — where I worked at the intersection of engineering, product, and regulatory complexity.
+In 2016, something shifted. I had spent years being the person who understood what needed to be built. I wanted to be the person who decided why. I transitioned into Scrum Master practice — deliberately — because I wanted to understand how great teams make decisions, how delivery and product strategy connect, and how to lead without the authority of a technical title. What followed was six years of learning the discipline of agile delivery from the inside: first at Callsign — a high-growth London fintech building identity verification technology — where I worked at the intersection of engineering, product, and regulatory complexity.
 
 In 2022 I joined A.P. Moller — Maersk as a founding member of the leadership team for a brand new Source to Pay engineering platform. What I found there changed my understanding of what a product leader actually does. With 85+ engineers across multiple cross-functional teams, I was not just facilitating sprints — I was owning backlog strategy, defining OKRs, coaching newly appointed Product Owners, building the governance frameworks that connected annual business roadmaps to daily engineering decisions, and influencing senior stakeholders without formal authority. I was doing the work of a Product Manager and delivery leader. I simply did not have the title.
 
@@ -37,11 +37,8 @@ Started as a programmer in India, working across industries and building hands-o
 2004 — 2010 · Systems Analyst
 Progressed into systems analysis — bridging business requirements and technical delivery. Developed deep expertise in requirements gathering, process design, and cross-functional collaboration across complex enterprise environments.
 
-2010 — 2016 · Solution Architect, Miki Travels · London
+2010 — 2020 · Solution Architect, Miki Travels · London
 Led end-to-end product and systems development for a travel technology company — managing a team of 8 engineers, designing architecture across multiple platforms, and delivering the Microsoft Dynamics 365 booking application integration. This is where I first owned a product from concept to live.
-
-2016 — 2020 · Scrum Master, Miki Travels · London
-A deliberate pivot into agile delivery leadership. Established Scrum from scratch, replacing a waterfall SDLC across London and offshore teams. Began developing the product-delivery translation skills that define my practice today.
 
 2020 — 2022 · Scrum Master, Callsign · London
 Joined a high-growth London fintech building identity verification and fraud prevention technology. Supported engineering and product alignment in a fast-paced, regulated environment. Contributed to QA and test-driven development practices and organisation-wide ways of working improvements.
@@ -59,7 +56,7 @@ AI & Data
 AI product strategy · Use case identification and scoping · AI ethics and risk frameworks · Data-driven decision making · ML product integration · Currently completing MIT xPRO Executive Certificate in AI Strategy and Product Innovation
 
 Delivery & Engineering
-Agile / SAFe delivery · Solution architecture · ERP integration (Microsoft Dynamics 365) · Systems analysis · Requirements engineering · Full SDLC · Azure DevOps · Jira
+Agile / SAFe delivery · Solution architecture · ERP integration (Microsoft Dynamics 365) · Systems analysis · Requirements engineering · Full SDLC · Azure DevOps · Jira .Miro . Figma
 
 Leadership
 Cross-functional team leadership · Engineering recruitment and onboarding · Organisational change · Coaching and mentoring · Executive stakeholder engagement
@@ -88,7 +85,7 @@ Case Studies
 
 
 Delivery Intelligence Platform — Maersk Source to Pay
-AI Concept: Intelligent Invoice Exception Handler
+AI Concept: Intelligent Story Readiness Inspector 
 AI Feature Concept: Demand Forecasting Assistant for Retail ERP
 
 
